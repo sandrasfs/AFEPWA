@@ -102,7 +102,11 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "baseHref": "https://sandrasfs.github.io/AFEPWA/",
+            "repo": "https://github.com/sandrasfs/AFEPWA.git"
+          }
         }
       }
     }
