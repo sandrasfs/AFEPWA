@@ -1,6 +1,6 @@
 {
-  "name": "MovieWebshopPWAAngular",
-  "short_name": "MovieWebshopPWAAngular",
+  "name": "angular-pwa",
+  "short_name": "angular-pwa",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
